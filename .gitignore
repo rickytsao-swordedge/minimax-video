@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.env.*
+submission*.json
+*.mp4
+*.part
